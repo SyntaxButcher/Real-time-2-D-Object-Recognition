@@ -24,9 +24,9 @@ The system can be built and run using any C++ compiler that supports C++11. You 
 
 # Object detector in action
 
-<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/Airpods.png" width="50%" height="50%">
-<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/Phone.png" width="50%" height="50%">
-<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/webcamRemote.png" width="50%" height="50%">
+<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/Airpods.png" width="25%" height="25%">
+<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/Phone.png" width="25%" height="25%">
+<img src="https://github.com/SyntaxButcher/Real-time-2-D-Object-Recognition/blob/main/Results/webcamRemote.png" width="25%" height="25%">
 
 
  
